@@ -1,0 +1,2 @@
+ReadME
+This file is the read me document for this project. In this folder there are builds of my game Mind Trap for windows 64 and 32 bit. these versions are configured for touch controlls as well as keyboard and console controllers.
